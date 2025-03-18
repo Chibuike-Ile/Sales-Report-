@@ -5,7 +5,7 @@
 ### Aim: To evaluate the effectiveness of a Company that sells bicycles and bicycle accessories.
 The bike sales company wants to determine the purchasing patterns of different demographic groups to identify areas where it needs to concentrate its marketing efforts. The company also wants to see if there are purchasing differences between the countries where it operates. They also wants to know their how Revenue and Profit have been over the years.
 
-**Data:** Sales_Order_number, Date, Day, Month, Year, Customer-Age, Age-Group, Customer-Gender, Country, State, Product_Category, Sub_Category, Product_Description, Order_Quantity, Unity_Cost, Unity_Price, Profit, Cost, Revenue. 
+**Data:** Sales_Order_number, Date, Day, Month, Year, Customer-Age, Age-Group, Customer-Gender, Country, State, Product_Category, Sub_Category, Product_Description, Order_Quantity, Unity_Cost, Unity_Price, Profit, Cost, Revenue. [Excel Project Data set, Sales-Report]()
 
 
 ![Raw Data](https://github.com/user-attachments/assets/0227313e-3b1c-4b1a-852c-52b382f30032)
