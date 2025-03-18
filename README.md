@@ -5,7 +5,7 @@
 ### Aim: To evaluate the effectiveness of a Company that sells bicycles and bicycle accessories.
 The bike sales company wants to determine the purchasing patterns of different demographic groups to identify areas where it needs to concentrate its marketing efforts. The company also wants to see if there are purchasing differences between the countries where it operates. They also wants to know their how Revenue and Profit have been over the years.
 
-**Data:** Sales_Order_number, Date, Day, Month, Year, Customer-Age, Age-Group, Customer-Gender, Country, State, Product_Category, Sub_Category, Product_Description, Order_Quantity, Unity_Cost, Unity_Price, Profit, Cost, Revenue. [Excel Project Data set, Sales-Report]()
+**Data:** Sales_Order_number, Date, Day, Month, Year, Customer-Age, Age-Group, Customer-Gender, Country, State, Product_Category, Sub_Category, Product_Description, Order_Quantity, Unity_Cost, Unity_Price, Profit, Cost, Revenue. [Excel Project Data set, Sales-Report](https://github.com/Chibuike-Ile/Sales-Report-/blob/main/Day_3_Task_3_Bike_Sales_Visualisations_Lab%20-%20Copy%201.xlsx)
 
 
 ![Raw Data](https://github.com/user-attachments/assets/0227313e-3b1c-4b1a-852c-52b382f30032)
@@ -13,7 +13,7 @@ The bike sales company wants to determine the purchasing patterns of different d
 
 Source: Just IT
 
-In this project I cleaned the dataset, I checked and remove duplicate records, checked for missing values. I covert each column into a common formate to ensure each have the correct data type. I check the data validation. I removed some column that are not neccessary like the Sales_order_number. I renamed Product_Description to Product for more understanding of the report. 
+In this project I cleaned the dataset, I checked and remove duplicate records, checked for missing values. I covert each column into a common formate to ensure each have the correct data type. I check the data validation. I removed some column that are not neccessary like the Sales_order_number. I renamed Product_Description to Product for more understanding of the report.  [Excel Project Data set, Sales-Report](https://github.com/Chibuike-Ile/Sales-Report-/blob/main/Day_3_Task_3_Bike_Sales_Visualisations_Lab%20-%20Copy%201.xlsx)
 
 
 ![Sales data](https://github.com/user-attachments/assets/9915047c-81d8-4476-9e60-7dacc3e90b91)
